@@ -12,7 +12,7 @@ import aioschedule
 OPENWEATHER_API_KEY = "ac2610f9e1afd26e59ee480be0df3a59"
 
 # ✅ Telegram bot tokeni
-BOT_TOKEN = "6691212577:AAEkY4KESuebDzjNWJ5xEVGVeuqxiXHyXWw"
+BOT_TOKEN = "7587955088:AAEJlTfySp9vuPv817CaguKKFY-1gkhUBaQ"
 
 uzbekistan_tz = pytz.timezone("Asia/Tashkent")
 
